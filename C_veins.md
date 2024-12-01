@@ -375,8 +375,6 @@ C is a powerful and efficient language that offers low-level control over system
 - [Official C Documentation](https://en.cppreference.com/w/c)
 - [Learn-C.org](https://www.learn-c.org/)
 - [C Programming Cheat Sheet](https://www.cprogramming.com/)
-```
-
 ---
 
 ### Key Features:
